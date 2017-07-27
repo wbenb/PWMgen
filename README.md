@@ -1,5 +1,5 @@
 # PWMgenV1
-Arduino based PWM signal generator for controlling brushed DC motor motors.
+Arduino based PWM signal generator for controlling brushed DC motors.
 
 Part | Link
 ------------- | -------------
