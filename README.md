@@ -8,3 +8,8 @@ Panel Mount 1k Potentiometer - https://www.adafruit.com/product/1789
 5v Pro Trinket - https://www.adafruit.com/product/2000
 Trinket LiPo Backpack - https://www.adafruit.com/product/2124
 2000mAh LiPo - https://www.adafruit.com/product/2011
+
+Part | Link
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
