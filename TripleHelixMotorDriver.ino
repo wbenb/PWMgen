@@ -3,7 +3,7 @@
   PWM Driver - A utility program that generates a PWM signal for the purpose of sending 
   test inputs to a motor controller.
   
-  W. Bretton Jan 2016
+  Jan 2016
 
 *********************************************************************/
 
